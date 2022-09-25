@@ -1,0 +1,15 @@
+H:\Бизнес\Личные документы\Учёба\C#\Examples\Examples009\bin\Debug\net6.0\Examples009.exe
+H:\Бизнес\Личные документы\Учёба\C#\Examples\Examples009\bin\Debug\net6.0\Examples009.deps.json
+H:\Бизнес\Личные документы\Учёба\C#\Examples\Examples009\bin\Debug\net6.0\Examples009.runtimeconfig.json
+H:\Бизнес\Личные документы\Учёба\C#\Examples\Examples009\bin\Debug\net6.0\Examples009.dll
+H:\Бизнес\Личные документы\Учёба\C#\Examples\Examples009\bin\Debug\net6.0\Examples009.pdb
+H:\Бизнес\Личные документы\Учёба\C#\Examples\Examples009\obj\Debug\net6.0\Examples009.csproj.AssemblyReference.cache
+H:\Бизнес\Личные документы\Учёба\C#\Examples\Examples009\obj\Debug\net6.0\Examples009.GeneratedMSBuildEditorConfig.editorconfig
+H:\Бизнес\Личные документы\Учёба\C#\Examples\Examples009\obj\Debug\net6.0\Examples009.AssemblyInfoInputs.cache
+H:\Бизнес\Личные документы\Учёба\C#\Examples\Examples009\obj\Debug\net6.0\Examples009.AssemblyInfo.cs
+H:\Бизнес\Личные документы\Учёба\C#\Examples\Examples009\obj\Debug\net6.0\Examples009.csproj.CoreCompileInputs.cache
+H:\Бизнес\Личные документы\Учёба\C#\Examples\Examples009\obj\Debug\net6.0\Examples009.dll
+H:\Бизнес\Личные документы\Учёба\C#\Examples\Examples009\obj\Debug\net6.0\refint\Examples009.dll
+H:\Бизнес\Личные документы\Учёба\C#\Examples\Examples009\obj\Debug\net6.0\Examples009.pdb
+H:\Бизнес\Личные документы\Учёба\C#\Examples\Examples009\obj\Debug\net6.0\Examples009.genruntimeconfig.cache
+H:\Бизнес\Личные документы\Учёба\C#\Examples\Examples009\obj\Debug\net6.0\ref\Examples009.dll
