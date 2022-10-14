@@ -34,9 +34,9 @@ void printArray(int[] mainArray)
 
 int getMaxMinDifference(int[] inArray)
 {
-    int nummax = 0;
+    int nummax = inArray[inArray.Length - 1];
     int nummin = inArray[inArray.Length - 1];
-    for (int i = 1; i < inArray.Length; i++)
+    for (int i = 0; i < inArray.Length; i++)
     {
         if (inArray[i] > nummax)
             nummax = inArray[i];
@@ -47,7 +47,7 @@ int getMaxMinDifference(int[] inArray)
     int result = nummax - nummin;
     return result;
 }
-int[] workArray = getRandomArray(5, 1, 11);
+int[] workArray = getRandomArray(3, -100, 100);
 printArray(workArray);
 int end = getMaxMinDifference(workArray);
 Console.WriteLine($"Разница между макс. мин. элементами в массиве равна [{end}] ");
